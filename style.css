@@ -30,8 +30,7 @@ font-size: 100%;
 /* img태그 : 폭100%, 높이 자동 */
 /**********************************/
 img {
-width: 700px;
-max-width: 100%;
+max-width: 700px;
 height: auto;
 }
 </style>
