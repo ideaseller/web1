@@ -24,8 +24,13 @@ font-size: 150%;
 /* productdetail : 100% 사이즈 적용 */
 /***************************************/
 .productdetail {
-font-size: 100%;
-line-height: 100%;
+    font-size: 100%;
+    margin {
+        margin-top: 6px;
+        margin-bottom: 6px;
+        margin-right: 6px;
+        margin-left: 6px;
+    }
 }
 /**********************************/
 /* img태그 : 폭100%, 높이 자동 */
