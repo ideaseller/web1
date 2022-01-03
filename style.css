@@ -1,42 +1,36 @@
 <style>
 
 /*********************************/
-/* p태그 : Arial, 굵은글씨 적용 */
+/* p : Arial, 굵은글씨 적용 */
 /*********************************/
 p {
-font-family: Arial;
-font-weight: bold;
+    font-family: Arial;
+    font-weight: bold;
 }
 /*****************************/
-/* seller : 빨강, 120% 적용 */
+/* p.seller : 빨강, 120% 적용 */
 /*****************************/
 .seller {
-color: red;
-font-size: 120%;
+    color: red;
+    font-size: 120%;
 }
 /***************************************/
-/* productname : 150% 사이즈 적용 */
+/* p.productname : 150% 사이즈 적용 */
 /***************************************/
 .productname {
-font-size: 150%;
+    font-size: 150%;
 }
 /***************************************/
-/* productdetail : 100% 사이즈 적용 */
+/* p.productdetail : 100% 사이즈 적용 */
 /***************************************/
 .productdetail {
     font-size: 100%;
-    margin {
-        margin-top: 6px;
-        margin-bottom: 6px;
-        margin-right: 6px;
-        margin-left: 6px;
-    }
 }
 /**********************************/
-/* img태그 : 폭100%, 높이 자동 */
+/* img : 폭100%, 높이 자동 */
 /**********************************/
 img {
-max-width: 700px;
-height: auto;
+    max-width: 700px;
+    height: auto;
 }
 </style>
