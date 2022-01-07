@@ -13,6 +13,7 @@ p {
 .seller {
     color: #cc0066;
     font-size: 120%;
+    border: solid 1px #cc6699;
 }
 /***************************************/
 /* p.productname : 150% 사이즈 적용 */
