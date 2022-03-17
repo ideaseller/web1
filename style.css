@@ -30,7 +30,8 @@ p {
 /* img : 폭100%, 높이 자동 */
 /**********************************/
 img {
-    max-width: 700px;
+    max-width: 100%;
+    /*max-width: 700px;*/
     height: auto;
 }
 </style>
